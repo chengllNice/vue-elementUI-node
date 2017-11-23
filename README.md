@@ -3,7 +3,7 @@ vue+mongodb+node的后台管理
 ## 描述：
 该项目分为前端和后端两部分，前端使用vue+elementui完成，后端使用node完成，数据库使用mongodb完成。其中的功能只是完成了一部分，
 在表单提交中部分字段没有实现数据库的存储，所以只用简单的看一下就好了，如果想要自己修改的也可以自己修改，欢迎大神，有什么需要可以联系我。
-该项目只是练习的项目，参考了WebCodeFarmer大神的git项目，项目地址：[https://github.com/WebCodeFarmer/houtai](https://github.com/WebCodeFarmer/houtai)
+该项目只是练习的项目，参考了[WebCodeFarmer](https://github.com/WebCodeFarmer)大神的git项目，项目地址：[https://github.com/WebCodeFarmer/houtai](https://github.com/WebCodeFarmer/houtai)
 
 ### 项目运行：
 前端页面部分：
