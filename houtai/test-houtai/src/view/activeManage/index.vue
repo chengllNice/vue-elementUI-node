@@ -175,8 +175,10 @@
           dataList.forEach((item, index)=>{
             let endDateTime = item.activeDateTime.endDateTime;
             let startDateTime = item.activeDateTime.startDateTime;
+            console.log(startDateTime - nowTime)
             if(startDateTime - nowTime > 0){
               status = '活动未开始';
+            }else{
               if(endDateTime - nowTime>0){
                 status = '活动进行中';
               }else{
